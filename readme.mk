@@ -1,0 +1,1 @@
+before you start pls go to `hello` and run `npx link` to link `vcore`
